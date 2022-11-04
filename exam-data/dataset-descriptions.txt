@@ -1,0 +1,26 @@
+rentals.csv
+-----------
+Contains information on apartment rentals.
+Column notes:
+* minimum_nights: The minimum amount of nights the apartment must be rented
+* number_of_reviews: The number of reviews placed for this apartment
+* reviews_per_month: The number of reviews this apartment recieves per month
+* calculated_host_listings_count: how many apartments this host rents out
+* availability_365: how many of the 365 days of the year this apartment is available for
+
+sales.csv
+---------
+Contains sales of books, films, games, and other kinds of entertainment.
+Column notes:
+* age: age of the buyer
+* date: time of purchase
+* description: a description of the bought item
+* gender: gender of the buyer
+* language: language of the item
+* price: price of the item
+* publication-date: the date at which the item was publicized
+* rating: a user rating of the item
+* title: the title of the item
+* user: a user id
+* visit_id: a session id for the visit to the online store
+* work_type: the type of the item
